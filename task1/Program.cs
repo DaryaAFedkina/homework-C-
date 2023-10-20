@@ -5,9 +5,6 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-using System.ComponentModel.DataAnnotations;
-using System.Numerics;
-
 Console.WriteLine("Введите первое число = "); 
 int a = Int32.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число = "); 
